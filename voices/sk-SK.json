@@ -1,0 +1,73 @@
+{
+    "languageAuthor": "tomytomiak",
+    "languageDisplay": "Slovensky",
+    "languageId": "sk_SK",
+    "actionOpen": ["otvor"],
+    "actionClose": ["zatvor"],
+    "actionTurnOn": ["zapni"],
+    "actionTurnOff": ["vypni"],
+    "voiceAll": [
+        "všetko",
+        "každý",
+        "celý"
+    ],
+    "voiceCantFindActionList": [
+        "Prepáčte, nerozumieme hlasovému príkazu, prosím skúste to znovu.",
+        "Prepáčte, nemôžeme pochopiť tento príkaz.",
+        "Systém zatiaľ nepodporuje tento príkaz, prepáčte.",
+        "Prepáčte, nevieme prísť na čo čo myslíte."
+    ],
+    "voiceCantFindEntityList": [
+        "Nemôžeme nájsť zariadenie, skúste to znova.",
+        "O tomto zariadení nevieme.",
+        "Zariadenie v systéme neexistuje.",
+        "Nemôžeme prísť na to, čo tým myslíš.",
+        "Nemôžeme nájsť zariadenie, ktoré ste práve zavolali."
+    ],
+    "voiceEntityClassMap": {
+        "roleta": "cover",
+        "dvere": "cover",
+        "záves": "cover",
+        "ac": "climate",
+        "klimatizácia": "climate",
+        "ventilácia": "climate",
+        "ventilátor": "fan",
+        "svetlo": "light",
+        "led": "light",
+        "žiarovka": "light",
+        "vypínač": "switch",
+        "obvod": "switch",
+        "zapni": "switch"
+    },
+    "voiceNumberMap": {
+        "nula": "0",
+        "jeden": "1",
+        "dva": "2",
+        "tri": "3",
+        "štyri": "4",
+        "päť": "5",
+        "šesť": "6",
+        "sedem": "7",
+        "osem": "8",
+        "deväť": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okay",
+        "Alright",
+        "Mám to",
+        "Hneď",
+        "Done",
+        "Páči sa"
+    ],
+    "voiceTryList": [
+        "Nemôžeme nájsť zariadenie, vyskúšajte nasledujúci príkaz:",
+        "Skúste povedať niečo ako:",
+        "Systém podporuje tieto príkazy:",
+        "Tu je ukážka hlasového príkazu:"
+    ],
+    "voiceWelcome": [
+        "Vitajte v systéme hlasového ovládania Home-Dashboard. Ak chcete ovládať zariadenia, skúste použiť nasledujúce príkazy:",
+        "Ďakujeme vám za aktiváciu systému hlasového ovládania Home-Dashboard. U väčšiny zariadení ju môžete aktivovať pomocou nasledujúcich príkazov:"
+    ]
+}
